@@ -84,8 +84,8 @@ namespace Лабораторна_2
             else
                 Console.WriteLine("Вказаний рiк-не високосний.");*/
 
-            /*//Task 6
-            string num = Console.ReadLine();
+            //Task 6
+            /*string num = Console.ReadLine();
             int suma = 0;
 
             foreach (char a in num)
